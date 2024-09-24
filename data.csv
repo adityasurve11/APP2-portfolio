@@ -1,7 +1,7 @@
 title;description;url;image
 Todo App;A distraction-free web app to help you focus on creating and completing Tasks.(A basic TODO APP);https://adityasurve11-my-todo-app-web-hhtbqv.streamlit.app/;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://portfolioapp-adityasurve11app2.streamlit.app;2.png
-Astronomy Image of the day;A website where every day a different astronomy Image of the day gets displayed along with it's information.;https://nasa-img-app-adityasurve11-taskapp3.streamlit.app;astronomy-illustration-png
+Astronomy Image of the day;A website where every day a different astronomy Image of the day gets displayed along with it's information.;https://nasa-img-app-adityasurve11-taskapp3.streamlit.app;101.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.(NOT A GUI APP);https://github.com/adityasurve11/APP3-pdf-template-NOTGUIAPP;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.(NOT A GUI APP);https://github.com/adityasurve11/APP4-Invoice_generation-NOTGUIAPP;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.(NOT A GUI APP);https://github.com/adityasurve11/APP5-EMAILNews_NOTGUIAPP;5.png
