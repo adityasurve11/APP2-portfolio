@@ -36,7 +36,7 @@ with col3:
         st.header(row['title'])
         st.write(row['description'])
         st.image("images/" + row["image"])
-        st.write(f"[Source code]({row['url']}")
+        st.write(f"[App URL]({row['url']}")
 
 with col4:
     for index, row in df[10:].iterrows():
