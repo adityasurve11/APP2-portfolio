@@ -11,13 +11,14 @@ with col1:
 with col2:
     st.title("Aditya Surve")
     content = """ 
-    In my journey to become a skilled Cybersecurity Analyst, I leverage my passion for the industry to 
-    fuel continuous learning and development.
+    In my journey to become a skilled Cybersecurity Analyst, 
+    I'm deeply committed to advancing my skills in cybersecurity, dedicating myself to studying and practicing every day.
     """
     st.info(content)
 
 content2 = """
-Below you can find some of the apps I have built in Python. Feel free to contact me! 
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+(In progress!) 
 """
 st.write(content2)
 
