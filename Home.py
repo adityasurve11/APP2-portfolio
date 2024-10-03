@@ -10,15 +10,9 @@ with col1:
 
 with col2:
     st.title("Aditya Surve")
-    content = """
-    Artificial Intelligence and Machine Learning graduate with a strong foundation in Cybersecurity,
-    managing security risks, networks and network security using Linux, SQL and tools like tcpdump,
-    Wireshark, SIEM tools and to manage and determine Assets, Threats, and Vulnerabilities by detecting 
-    and responding using Python to automate Cybersecurity tasks. 
+    content = """ 
     In my journey to become a skilled Cybersecurity Analyst, I leverage my passion for the industry to 
     fuel continuous learning and development.
-    I am eager to contribute my skills and knowledge to a cybersecurity role, mitigating threats and 
-    safeguarding your organization.
     """
     st.info(content)
 
@@ -27,7 +21,7 @@ Below you can find some of the apps I have built in Python. Feel free to contact
 """
 st.write(content2)
 
-col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
+col3, empty_col, col4 = st.columns([2.2, 0.3, 2.2])
 
 df = pandas.read_csv("data.csv", sep=";")
 
@@ -36,7 +30,7 @@ with col3:
         st.header(row['title'])
         st.write(row['description'])
         st.image("images/" + row["image"])
-        st.write(f"[App URL]({row['url']}")
+        st.write(f"[App-URL]{row['url']}")
 
 with col4:
     for index, row in df[10:].iterrows():
