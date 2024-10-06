@@ -11,7 +11,7 @@ with col1:
 with col2:
     st.title("Aditya Surve")
     content = """ 
-    In my journey to become a skilled Cybersecurity Analyst, 
+    In my journey to become a skilled Cybersecurity Engineer, 
     I'm deeply committed to advancing my skills in cybersecurity, dedicating myself to studying and practicing every day.
     """
     st.info(content)
