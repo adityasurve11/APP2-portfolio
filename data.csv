@@ -1,11 +1,11 @@
 title;description;url;image
-1. Todo App;A distraction-free web app to help you focus on creating and completing Tasks.(A basic TODO APP); https://adityasurve11-my-todo-app.streamlit.app;1.png
-2. Portfolio Website;A website built entirely in Python to showcase coding projects and apps.; https://portfolioapp-adityasurve11.streamlit.app;img-portfolio.png
+1. TO-DO Web App;A distraction-free web app to help you focus on creating and completing Tasks.(A basic TODO APP); https://adityasurve11-my-todo-app.streamlit.app;1.png
+2. Portfolio Web App;A website built entirely in Python to showcase coding projects and apps.; https://portfolioapp-adityasurve11.streamlit.app;img-portfolio.png
 3. Astronomy Image of the day;A website where every day a different astronomy Image of the day gets displayed along with it's information.; https://astronomy-img-app-adityasurve11.streamlit.app;101.png
-4. PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines. (NOT A GUI APP); https://github.com/adityasurve11/APP4-pdf-template-NOTGUIAPP;pdfphoto.png
-5. PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices. (NOT A GUI APP); https://github.com/adityasurve11/APP5-Invoice_generation-NOTGUIAPP;4.png
-6. Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news. (NOT A GUI APP); https://github.com/adityasurve11/APP6-EMAILNews_NOTGUIAPP;5.png
-7. Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.; https://github.com/adityasurve11/APP7-Historical-weather-API;6.png
+4. 5 Days Weather Forecast;A REST API built with Python and Flask to serve historical weather data for various cities.; https://github.com/adityasurve11/APP7-Historical-weather-API;6.png
+5. PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines. (NOT A GUI APP); https://github.com/adityasurve11/APP4-pdf-template-NOTGUIAPP;pdfphoto.png
+6. PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices. (NOT A GUI APP); https://github.com/adityasurve11/APP5-Invoice_generation-NOTGUIAPP;4.png
+7. Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news. (NOT A GUI APP); https://github.com/adityasurve11/APP6-EMAILNews_NOTGUIAPP;5.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
