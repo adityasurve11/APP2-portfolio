@@ -2,7 +2,7 @@ title;description;url;image
 1. TO-DO Web App;A distraction-free web app to help you focus on creating and completing Tasks.(A basic TODO APP); https://adityasurve11-my-todo-app.streamlit.app;1.png
 2. Portfolio Web App;A website built entirely in Python to showcase coding projects and apps.; https://portfolioapp-adityasurve11.streamlit.app;img-portfolio.png
 3. Astronomy Image of the day Web App;A website where every day a different astronomy Image of the day gets displayed along with it's information.; https://astronomy-img-app-adityasurve11.streamlit.app;101.png
-4. Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://5-day-weather-forecast-adityasurve11.streamlit.app;16.png
+4. Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://5-day-weather-forecast-adityasurve11.streamlit.app;weatherpng.png
 5. PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines. (NOT A GUI APP); https://github.com/adityasurve11/APP4-pdf-template-NOTGUIAPP;pdfphoto.png
 6. PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices. (NOT A GUI APP); https://github.com/adityasurve11/APP5-Invoice_generation-NOTGUIAPP;4.png
 7. Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news. (NOT A GUI APP); https://github.com/adityasurve11/APP6-EMAILNews_NOTGUIAPP;5.png
